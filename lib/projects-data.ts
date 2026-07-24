@@ -19,7 +19,7 @@ export const projects: Project[] = [
     name: "MediQueue",
     tagline: "Tutor booking, without the back-and-forth",
     cover:
-      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=1400&auto=format&fit=crop",
+      "https://i.ibb.co.com/xqWm3mmh/image.png",
     role: ["User", "Tutor"],
     stack: ["React", "Node.js", "Express", "MongoDB", "JWT Auth"],
     description:
@@ -37,7 +37,7 @@ export const projects: Project[] = [
     name: "TicketBari",
     tagline: "One platform, four ways to travel",
     cover:
-      "https://images.unsplash.com/photo-1474487548417-781cb71495f3?q=80&w=1400&auto=format&fit=crop",
+      "https://i.ibb.co.com/27JTmdmq/image.png",
     role: ["User", "Vendor", "Admin"],
     stack: ["React", "Node.js", "Express", "MongoDB", "Stripe"],
     description:
@@ -55,7 +55,7 @@ export const projects: Project[] = [
     name: "Plant Pot",
     tagline: "A shop that remembers to water your plants",
     cover:
-      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?q=80&w=1400&auto=format&fit=crop",
+      "https://i.ibb.co.com/pjWmx4GF/image.png",
     role: ["User", "Admin"],
     stack: ["React", "Node.js", "Express", "MongoDB"],
     description:
@@ -73,7 +73,7 @@ export const projects: Project[] = [
     name: "DataNav AI",
     tagline: "Upload a dataset, ask it questions",
     cover:
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1400&auto=format&fit=crop",
+      "https://i.ibb.co.com/hJssz5jw/image.png",
     role: ["User"],
     stack: ["React", "Node.js", "Express", "AI/LLM Integration"],
     description:
