@@ -73,7 +73,7 @@ export function Navbar() {
             <Terminal size={16} strokeWidth={2.25} />
           </span>
           <span>
-            rahad
+            Rahad
           </span>
         </a>
 
