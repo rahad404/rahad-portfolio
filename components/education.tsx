@@ -5,9 +5,9 @@ const timeline = [
   {
     school: "United International University (UIU)",
     degree: "B.Sc. in Computer Science & Engineering",
-    period: "2022 — 2028 (expected)",
+    period: "2024 — 2028 (expected)",
     detail: "Currently in 3rd year",
-    metric: "CGPA 3.32",
+    metric: "CGPA _.__",
   },
   {
     school: "Dhaka City College",
