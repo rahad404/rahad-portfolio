@@ -91,7 +91,6 @@ export function Navbar() {
                   active === link.href && "text-accent2"
                 )}
               >
-                <span className="text-[11px] text-muted/60">0{i + 1}</span>
                 {link.label}
               </a>
             </li>
