@@ -4,15 +4,6 @@ Personal portfolio of **Md. Ashikuzzaman Rahad** — Full Stack Developer (MERN 
 
 Built with **Next.js 14**, **Tailwind CSS**, and **shadcn/ui**-style components. Single-page layout with scroll-reveal animations and dynamic project detail pages.
 
-## Quick start
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
-
 ## Sections
 
 - Hero — intro, typewriter, social links
