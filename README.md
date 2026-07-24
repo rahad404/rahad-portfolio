@@ -21,7 +21,3 @@ Open [http://localhost:3000](http://localhost:3000).
 - Education — academic timeline
 - Projects — 4 full-stack builds with quick links (Code / Live / Details)
 - Contact — email, phone, WhatsApp
-
-## Deploy
-
-Push to GitHub and import into [Vercel](https://vercel.com/new).
