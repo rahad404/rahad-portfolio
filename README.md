@@ -1,4 +1,4 @@
-# rahad.dev — Portfolio
+# Rahad — Portfolio
 
 Personal portfolio of **Md. Ashikuzzaman Rahad** — Full Stack Developer (MERN & Spring Boot).
 
